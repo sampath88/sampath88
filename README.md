@@ -187,7 +187,6 @@ about **React, Nodejs** - 📫 How to reach me
                 alt="mysql" width="40" height="40" />
         </a>
     </kbd>
-    
     &nbsp;
     <kbd>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -195,7 +194,6 @@ about **React, Nodejs** - 📫 How to reach me
                 height="40" />
         </a>
     </kbd>
-    
     &nbsp;
     <kbd>
         <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
