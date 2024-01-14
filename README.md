@@ -16,7 +16,7 @@
     </a>
 </p>
 
-- 🔭 Building PerfectResume.ai [PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) 
+- 🔭 Building [PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) 
 - 🌱 I’m currently learning **Go Programming & DB Internals** 
 - 👨‍💻 All of my projects are available at [https://github.com/sampath88](https://github.com/sampath88) 
 - 💬 Ask me about **React, Nodejs** 
