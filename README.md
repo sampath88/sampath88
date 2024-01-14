@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <kbd><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a> </kbd> &bsp;<kbd><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+            alt="aws" width="40" height="40" /> </a> </kbd> &nbsp; <kbd><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
     </kbd><kbd><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
