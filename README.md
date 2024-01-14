@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">Software Engineer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=sampath88&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sampath88&label=Profile%20views&color=0e75b6&style=flat" alt="sampath88" /> </p>
 
 # 🏆 GitHub Trophies
 <p align="left">
