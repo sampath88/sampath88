@@ -15,13 +15,13 @@
             alt="sampath_mannem" />
     </a>
 </p>
-- 🔭 Building PerfectResume.ai
-[PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) - 🌱 I’m
-currently learning **Go Programming & DB Internals** - 👨‍💻 All of my
-projects are available at
-[https://github.com/sampath88](https://github.com/sampath88) - 💬 Ask me
-about **React, Nodejs** - 📫 How to reach me
-**sampathreddy8896@gmail.com**
+
+- 🔭 Building PerfectResume.ai [PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) 
+- 🌱 I’m currently learning **Go Programming & DB Internals** 
+- 👨‍💻 All of my projects are available at [https://github.com/sampath88](https://github.com/sampath88) 
+- 💬 Ask me about **React, Nodejs** 
+- 📫 How to reach me **sampathreddy8896@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/sampath_mannem" target="blank">
