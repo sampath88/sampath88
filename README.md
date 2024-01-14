@@ -55,7 +55,7 @@
             height="40" /> </a> </kbd> &nbsp;<kbd><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a> </kbd> &nbsp;<kbd><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> </kbd><kbd><a
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> </kbd> &nbsp;<kbd><a
         href="https://golang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
             height="40" /> </a> </kbd> &nbsp;<kbd><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
