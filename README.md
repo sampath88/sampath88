@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sampath88&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sampath88" />
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=sampath88&icon=5&color=0)](https://visitcount.itsvg.in)
+
+# 🏆 GitHub Trophies
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sampath88" alt="sampath88" />
@@ -16,13 +16,14 @@
     </a>
 </p>
 
-- 🔭 Building [PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) 
+# 💫 About Me:
+- 🔭 Building PerfectResume.ai [PerfectResume.ai](https://perfect-resume-gamma.vercel.app/) 
 - 🌱 I’m currently learning **Go Programming & DB Internals** 
 - 👨‍💻 All of my projects are available at [https://github.com/sampath88](https://github.com/sampath88) 
 - 💬 Ask me about **React, Nodejs** 
 - 📫 How to reach me **sampathreddy8896@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/sampath_mannem" target="blank">
         <img align="center"
